@@ -4,3 +4,6 @@ settings = {
     'epochs': 50,  # number of training epochs
     'learning_rate': 0.01  # learning rate
 }
+
+
+
