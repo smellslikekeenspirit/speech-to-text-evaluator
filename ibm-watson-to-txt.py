@@ -2,7 +2,7 @@ import json
 
 
 def json_to_txt(json):
-    f = open("transcript2.txt", "w")
+    f = open("new7.txt", "w")
     for result in json['results']:
         f.write(result['alternatives'][0]['transcript'] + '\n')
 

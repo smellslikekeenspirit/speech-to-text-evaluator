@@ -1,26 +1,28 @@
-hello jags automotive this is Denise how may I help you today hello Anita have you had your car serviced with us in the past 
-great you are a new customer and our service station was recommended to you by Kurt Johnston yes Chris Johnston he has been a good customer of ours for many years 
-so you have a two thousand and ten Honda CRV and when you try to start the car it does nothing but click 
-if you replace the battery two months ago so there is a new battery 
-you said the car always starts after a few tries but it seems to be getting worse 
-well it may be the starter that needs to be replaced 
-so you have on the car for five years and I've never had to replace the starter 
-well I think you should make an appointment to bring it in and we will do a diagnostic test on the electronics to determine what the problem is 
-yes we do have one car we can loan out but it is is already reserved for the next two weeks 
-we also have a car shuttle service you can use if you need to be dropped off at work after you bring the car in 
-what address would you be going to 
-yes Northview Electric Company on Arcadia parkway is within our car service location 
-it is complementary for the car service but most people offer a tip to the driver for the ride 
-my first available opening to look at your Honda CRV would be next Thursday 
-it would take approximately four hours to look at the car and then run the diagnostics on it 
-we may be able to get the work done in one day but if we have to order parts I cannot guarantee that 
-the cost of a new starter for that make and model of your car is one hundred and eighty nine dollars and the labor is approximately two hundred and fifty dollars if there are no other issues with the car 
-yes we can check the brakes while we have it up on the left 
-the cost to install a set of front or rear brakes will be approximately four hundred dollars for each set of brakes 
-with winter coming it is a good idea to have the car checked all over especially with an old older vehicle 
-we can schedule you for Thursday October twenty first arriving at seven AM 
-is this the number to reach you at two zero one seven two two five six four eight 
-okay nida we have you scheduled for a complimentary car service to and from work leaving our service center at seven fifteen AM and picking you up at approximately four fifteen PM from Arcadia parkway 
-okay then we will see you next Thursday at seven o'clock AM 
-if you need to adjust your appointment please give us twenty four hours notice or you will be charged a fifty dollar service fee 
-thank you for calling avis automotive 
+hello jags automotive this is denise how may i help you today  (spk1_1)
+hello anita have you had your car serviced with us in the past  (spk1_2)
+great you are a new customer and our service station was recommended to you by kurt johnston  (spk1_3)
+yes chris johnston he has been a good customer of ours for many years  (spk1_4)
+so you have a two thousand and ten honda crv and when you try to start the car it does nothing but click   (spk1_5)
+if you replace the battery two months ago so there is a new battery   (spk1_6)
+you said the car always starts after a few tries but it seems to be getting worse   (spk1_7)
+well it may be the starter that needs to be replaced   (spk1_8)
+so you have on the car for five years and i've never had to replace the starter   (spk1_9)
+well i think you should make an appointment to bring it in and we will do a diagnostic test on the electronics to determine what the problem is   (spk1_10)
+yes we do have one car we can loan out but it is is already reserved for the next two weeks   (spk1_11)
+we also have a car shuttle service you can use if you need to be dropped off at work after you bring the car in   (spk1_12)
+what address would you be going to   (spk1_13)
+yes northview electric company on arcadia parkway is within our car service location   (spk1_14)
+it is complementary for the car service but most people offer a tip to the driver for the ride   (spk1_15)
+my first available opening to look at your honda crv would be next thursday   (spk1_16)
+it would take approximately four hours to look at the car and then run the diagnostics on it   (spk1_17)
+we may be able to get the work done in one day but if we have to order parts i cannot guarantee that   (spk1_18)
+the cost of a new starter for that make and model of your car is one hundred and eighty nine dollars and the labor is approximately two hundred and fifty dollars if there are no other issues with the car   (spk1_19)
+yes we can check the brakes while we have it up on the left   (spk1_20)
+the cost to install a set of front or rear brakes will be approximately four hundred dollars for each set of brakes   (spk1_21)
+with winter coming it is a good idea to have the car checked all over especially with an old older vehicle   (spk1_22)
+we can schedule you for thursday october twenty first arriving at seven am   (spk1_23)
+is this the number to reach you at two zero one seven two two five six four eight   (spk1_24)
+okay nida we have you scheduled for a complimentary car service to and from work leaving our service center at seven fifteen am and picking you up at approximately four fifteen pm from arcadia parkway   (spk1_25)
+okay then we will see you next thursday at seven o'clock am   (spk1_26)
+if you need to adjust your appointment please give us twenty four hours notice or you will be charged a fifty dollar service fee   (spk1_27)
+thank you for calling avis automotive  (spk1_28)
