@@ -1,27 +1,35 @@
-hello this is harbor view cafe I have your phone number is four five six three four five seven eight six eight will this be for curbside takeout or delivery today 
-we have a few lunch specials today would you like to hear them 
-for soup special we have beef barley in cream of broccoli today for five dollars and ninety nine sensible we also offer soup in a smaller portion for three dollars and ninety nine cents a Cup for hamburger special it is a quarter pound hamburger with bacon blue cheese lettuce and tomato and then include sweet potato fries for ten dollars and ninety nine cents 
-this special also comes with a dill pickle and special dipping sauce for your sweet potato fries 
-four sandwich special today we have a grilled panini sandwich with Turkey the cheeses brie and has a cranberry relish on it 
-we also have a wood fired pizza special would you be interested in hearing about that pizza 
-it is called Frank's favorite it is our chef's choice when he orders pizza 
-it is a deep dish pizza similar to a Chicago style pizza 
-it is a large pizza with red sauce on top with peppers mushrooms sausage and mozzarella cheese in the middle 
-the cost for that twenty inch pie is twenty one dollars and ninety nine cents 
-are you ready to order 
-okay you would like to order a cheese burger with cheddar cheese with curly fries on a hard role yes we can substitute sweet pickles instead of a dill pickle with that order 
-yes we can prepare that for you well done 
-he would also like a grilled panini special without the cranberry relish if you would like to add a side of pasta salad with that in chips 
-in addition you would like a large chicken Caesar salad without onions in the Caesar dressing on the side 
-he would like to add two bowls of cream of broccoli soup in one bowl of chicken noodle soup to your order 
-may I have your name please 
-thank you Joanne 
-okay we have this order scheduled for delivery at one o'clock PM 
-will the bill be delivering to the address on file for that phone number 
-Joanne Robertson at Munson associates twenty five thirty woods Avenue 
-okay you would like this delivered to a new address at Munson's associates today 
-yes we can deliver that to the side door entrance door half of that building 
-the total for this order will be sixty dollars and forty three cents and that includes tax and a five dollar delivery charge 
-would you like to add a tip to your delivery order 
-okay you would like to add a twelve dollar tip to your order the new total for your order is seventy two dollars and forty three cents yes you can pay the delivery person with a debit card today and we can add the tip to your debit card now I will put your receipt in with your food order the driver for this delivery will be Nathan 
-thank you and have a nice day 
+hello this is harbor view cafe  (spk1_1)
+i have your phone number is four five six three four five seven eight six eight  (spk1_2)
+will this be for curbside takeout or delivery today  (spk1_3)
+we have a few lunch specials today would you like to hear them  (spk1_4)
+for soup special we have beef barley in cream of broccoli today for five dollars and ninety nine sensible we also offer soup in a smaller portion for three dollars and ninety nine cents a cup  (spk1_5)
+for hamburger special it is a quarter pound hamburger  (spk1_6)
+with bacon blue cheese lettuce and tomato and then include sweet potato fries for ten dollars and ninety nine cents  (spk1_7)
+this special also comes with a dill pickle and special dipping sauce for your sweet potato fries  (spk1_8)
+four sandwich special today we have a grilled panini sandwich with turkey the cheeses brie and has a cranberry relish on it  (spk1_9)
+we also have a wood fired pizza special would you be interested in hearing about that pizza  (spk1_10)
+it is called frank's favorite it is our chef's choice when he orders pizza  (spk1_11)
+it is a deep dish pizza similar to a chicago style pizza  (spk1_12)
+it is a large pizza with red sauce on top with peppers mushrooms sausage and mozzarella cheese in the middle  (spk1_13)
+the cost for that twenty inch pie is twenty one dollars and ninety nine cents  (spk1_14)
+are you ready to order  (spk1_15)
+okay you would like to order a cheese burger with cheddar cheese with  (spk1_16)
+curly fries on a hard role  (spk1_17)
+yes we can substitute sweet pickles instead of a dill pickle with that order  (spk1_18)
+yes we can prepare that for you well done  (spk1_19)
+he would also like a grilled panini special without the cranberry relish if you would like to add a side of pasta salad with that in chips  (spk1_20)
+in addition you would like a large chicken caesar salad without onions in the caesar dressing on the side  (spk1_21)
+he would like to add two bowls of cream of broccoli soup in one bowl of chicken noodle soup to your order  (spk1_22)
+may i have your name please thank you joanne  (spk1_23)
+okay we have this order scheduled for delivery at one o'clock pm  (spk1_24)
+will the bill be delivering to the address on file for that phone number  (spk1_25)
+joanne robertson at munson associates twenty five thirty woods avenue  (spk1_26)
+okay you would like this delivered to a new address at munson's associates today  (spk1_27)
+yes we can deliver that to the side door entrance door half of that building  (spk1_28)
+the total for this order will be sixty dollars and forty three cents and that includes tax and a five dollar delivery charge  (spk1_29)
+would you like to add a tip to your delivery order  (spk1_30)
+okay you would like to add a twelve dollar tip to your order  (spk1_31)
+the new total for your order is seventy two dollars and forty three cents  (spk1_32)
+yes you can pay the delivery person with a debit card today and we can add the tip to your debit card now i will put your receipt in with your food order  (spk1_33)
+the driver for this delivery will be nathan  (spk1_34)
+thank you and have a nice day  (spk1_35)
