@@ -7,7 +7,7 @@ class Corpus:
         self.lines = []
         r = r"(?<!\d)[.?,;:](?!\d)"
         with open(filename, encoding='utf-8') as f1, open("parsed", 'w', encoding='utf-8') as f2:
-            line = f1.readline()
+            line = f1.readline().strip()
             i = 1
             while line:
                 line = re.sub(r'\n+', '', re.sub(r"\$", "", re.sub("_", "", re.sub("-", "", re.sub(r, "", line)))))
@@ -19,5 +19,5 @@ class Corpus:
 
 
 if __name__ == '__main__':
-    c = Corpus("new7.txt")
+    c = Corpus("globaltravel1.txt")
     print(c)
