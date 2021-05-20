@@ -19,5 +19,5 @@ class Corpus:
 
 
 if __name__ == '__main__':
-    c = Corpus("globaltravel1.txt")
+    c = Corpus("global_travel/diptanu_globaltravel.txt")
     print(c)

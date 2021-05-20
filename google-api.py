@@ -3,7 +3,6 @@ import os
 
 # Imports the Google Cloud client library
 from google.cloud import speech
-import wave
 from google.cloud import storage
 from google.oauth2 import service_account
 
@@ -16,7 +15,7 @@ client = speech.SpeechClient(credentials=credentials)
 bucket = storage_client.get_bucket('ntid_bucket')
 print(bucket)
 # The name of the audio file to transcribe
-gcs_uri = 'gs://' + 'ntid_bucket' + '/' + 'gt17.flac'
+gcs_uri = 'gs://' + 'ntid_bucket' + '/' + 'Global_Travel_DIptanu_Rerecord.flac'
 
 client = speech.SpeechClient()
 audio = speech.RecognitionAudio(uri=gcs_uri)
@@ -24,7 +23,7 @@ audio = speech.RecognitionAudio(uri=gcs_uri)
 
 config = speech.RecognitionConfig(
     encoding=speech.RecognitionConfig.AudioEncoding.FLAC,
-    sample_rate_hertz=48000,
+    sample_rate_hertz=44100,
     language_code="en-US",
 )
 

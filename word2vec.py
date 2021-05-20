@@ -18,7 +18,7 @@ class word2vec:
 
     def generate_training_data(self, corpus):
         word_count = defaultdict(int)
-        corp = corpus("text1.txt")
+        corp = corpus("car20pc.txt")
         print(corp.lines)
         for line in corp.lines:
             for word in line:
@@ -31,7 +31,7 @@ class word2vec:
         self.index_word = dict((i, word) for i, word in enumerate(self.unique_word_list))
         training_data = []
         for line in corp.lines:
-            length_of_line = len(line)  # length of list containing words, representative of a line from text1.txt
+            length_of_line = len(line)  # length of list containing words, representative of a line from car20pc.txt
             for i, word in enumerate(line):
                 w_target = self.word2onehot(line[i])
                 w_context = list()

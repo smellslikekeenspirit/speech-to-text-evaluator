@@ -20,4 +20,4 @@ def read(filename):
 
 
 if __name__ == '__main__':
-    read("text1.txt")
+    read("car20pc.txt")
