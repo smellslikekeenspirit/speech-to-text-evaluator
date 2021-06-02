@@ -1,0 +1,143 @@
+Setting up the neural language model.. (this may take awhile)
+loading word2vec model (this may take a while)
+word2vec model loaded!
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.08086401224136353 |	 HYP: cafe
+IMPACT: 0.2616566944361573 | REF: hello this is harbor... | HYP: hello this is harbor...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8518248349428177 |	 HYP: is
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 4563457868
+IMPACT: 1.3542496382968716 | REF: i have your phone nu... | HYP: i have your phone nu...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['curb']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9595200158655643 |	 HYP: curbside
+IMPACT: 1.01672582276785 | REF: will this be for cur... | HYP: will this be for cur...
+====================
+IMPACT: 0 | REF: we have a few lunch ... | HYP: we have a few lunch ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: a
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.3398420214653015 |	 HYP: had
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7857584953308105 |	 HYP: ball
+IMPACT: 0.6134632625260646 | REF: for our soup special... | HYP: for a soup special w...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: a
+IMPACT: 0.7086583388428552 | REF: for our hamburger sp... | HYP: for a hamburger spec...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 10.99
+IMPACT: 0.8356651579543357 | REF: with bacon blue chee... | HYP: with bacon blue chee...
+====================
+IMPACT: 0 | REF: that special also co... | HYP: that special also co...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: a
+IMPACT: 0.7118274972365816 | REF: for our sandwich spe... | HYP: for a sandwich speci...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['wood']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8174931704998016 |	 HYP: woodfired
+IMPACT: 0.9651448830945204 | REF: we have a wood fired... | HYP: we have a woodfired ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9326960742473602 |	 HYP: friends
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: chef's
+IMPACT: 0.7968431685798267 | REF: it is called franks ... | HYP: it is called friends...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7000000000000001 |	 REF: ['chicago']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: chicagostyle
+IMPACT: 1.2431040280349084 | REF: it is a deep dish pi... | HYP: it is a deep dish pi...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.22835618257522583 |	 HYP: mushroom
+IMPACT: 0.22042512187741542 | REF: it is a large pizza ... | HYP: it is a large pizza ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 21.99
+IMPACT: 0.822153892030832 | REF: the cost for that 20... | HYP: the cost for that 20...
+====================
+IMPACT: 0 | REF: are you ready to ord... | HYP: are you ready to ord...
+====================
+IMPACT: 0 | REF: okay you would like ... | HYP: okay you would like ...
+====================
+IMPACT: 0 | REF: curly fries on a har... | HYP: curly fries on a har...
+====================
+IMPACT: 0 | REF: yes we can substitut... | HYP: yes we can substitut...
+====================
+IMPACT: 0 | REF: yes we can prepare t... | HYP: yes we can prepare t...
+====================
+IMPACT: 0 | REF: you would also like ... | HYP: you would also like ...
+====================
+IMPACT: 0 | REF: in addition you woul... | HYP: in addition you woul...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5792989730834961 |	 HYP: two
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8084229379892349 |	 HYP: one
+IMPACT: 0.5094502637979 | REF: you would like to ad... | HYP: you would like to ad...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.6000000000000001 |	 REF: ['please']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: pleasethank
+IMPACT: 1.2799038527036983 | REF: may i have your name... | HYP: may i have your name...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 1
+IMPACT: 0.7971302995148912 | REF: okay we have this or... | HYP: okay we have this or...
+====================
+IMPACT: 0 | REF: will we be deliverin... | HYP: will we be deliverin...
+====================
+IMPACT: 0 | REF: joanne robertson at ... | HYP: joanne robertson at ...
+====================
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.2 |	 HYP: ['to']
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 HYP: ['get']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: months
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 HYP: ['and']
+IMPACT: 0.7149900729676861 | REF: okay you would like ... | HYP: okay you would like ...
+====================
+IMPACT: 0 | REF: yes we can deliver t... | HYP: yes we can deliver t...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 5
+IMPACT: 0.8631758737563836 | REF: the total for this o... | HYP: the total for this o...
+====================
+IMPACT: 0 | REF: would you like to ad... | HYP: would you like to ad...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 12
+IMPACT: 0.7332389039032965 | REF: okay you would like ... | HYP: okay you would like ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 72.43
+IMPACT: 0.8445448973786043 | REF: the new total for yo... | HYP: the new total for yo...
+====================
+IMPACT: 0 | REF: yes you can pay the ... | HYP: yes you can pay the ...
+====================
+IMPACT: 0 | REF: the delivery driver ... | HYP: the delivery driver ...
+====================
+IMPACT: 0 | REF: thank you and have a... | HYP: thank you and have a...
+====================
+
+========= RESULTS =========
+;eval-config: wimp=neuralpred dist=w2v errcomb=errintr alpha=0.64 
+[0] 0 0 0 0 0 0.262 0 0.262
+[1] 0 0 0 0 0 0.69 0.814 0 1.35
+[2] 0 0 0 0 0.334 0.796 0 0 0 0 0 1.02
+[3] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[4] 0 0.726 0 0 0 0.39 0 0 0 0 0 0 0 0 0 0 0.693 0 0 0 0 0 0 0 0 0 0 0 0 0 0.613
+[5] 0 0.709 0 0 0 0 0 0 0 0 0 0.709
+[6] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.836 0 0.836
+[7] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[8] 0 0.712 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.712
+[9] 0 0 0 0.383 0.688 0 0 0 0 0 0 0 0 0 0 0 0 0.965
+[10] 0 0 0 0.738 0 0 0 0 0.85 0 0 0 0 0 0 0.797
+[11] 0 0 0 0 0 0 0 0 0 0.544 0.837 0 0 1.24
+[12] 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22 0 0 0 0 0 0 0 0 0.22
+[13] 0 0 0 0 0 0 0 0 0.822 0 0.822
+[14] 0 0 0 0 0 0 0
+[15] 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[16] 0 0 0 0 0 0 0 0
+[17] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[18] 0 0 0 0 0 0 0 0 0 0 0
+[19] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[20] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[21] 0 0 0 0 0 0.43 0 0 0 0 0 0 0 0.589 0 0 0 0 0 0 0 0 0 0.509
+[22] 0 0 0 0 0 0.571 0.85 0 0 0 1.28
+[23] 0 0 0 0 0 0 0 0 0 0 0.797 0 0 0.797
+[24] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[25] 0 0 0 0 0 0 0 0 0 0
+[26] 0 0 0 0 0.255 0.283 0 0 0 0 0 0 0 0.708 0.343 0 0 0 0.715
+[27] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[28] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.863 0 0 0 0.863
+[29] 0 0 0 0 0 0 0 0 0 0 0 0 0
+[30] 0 0 0 0 0 0 0 0.733 0 0 0 0 0 0.733
+[31] 0 0 0 0 0 0 0 0.845 0 0.845
+[32] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[33] 0 0 0 0 0 0 0 0 0 0
+[34] 0 0 0 0 0 0 0 0 0
+
