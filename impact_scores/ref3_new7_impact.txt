@@ -1,0 +1,111 @@
+Setting up the neural language model.. (this may take awhile)
+loading word2vec model (this may take a while)
+word2vec model loaded!
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: jake's
+IMPACT: 0.8298641094330501 | REF: hello jake’s automot... | HYP: hello jake's automot...
+====================
+IMPACT: 0 | REF: hello anita have you... | HYP: hello anita have you...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7093221247196198 |	 HYP: kirk
+IMPACT: 0.6464782465088857 | REF: great you are a new ... | HYP: great you are a new ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7093221247196198 |	 HYP: kirk
+IMPACT: 0.6485683119645343 | REF: yes kurt johnston he... | HYP: yes kirk johnston he...
+====================
+IMPACT: 0 | REF: so you have a 2010 h... | HYP: so you have a 2010 h...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.3214157223701477 |	 HYP: replace
+IMPACT: 0.3152235168521806 | REF: and you replaced the... | HYP: and you replace the ...
+====================
+IMPACT: 0 | REF: you said the car alw... | HYP: you said the car alw...
+====================
+IMPACT: 0 | REF: well it may be the s... | HYP: well it may be the s...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.6567688882350922 |	 HYP: it
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.3214157223701477 |	 HYP: replace
+IMPACT: 0.7055934203330447 | REF: so you have owned th... | HYP: so you have owned th...
+====================
+IMPACT: 0 | REF: well i  think you sh... | HYP: well i think you sho...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5792989730834961 |	 HYP: two
+IMPACT: 0.5361281696707485 | REF: yes we do have one c... | HYP: yes we do have one c...
+====================
+IMPACT: 0 | REF: we also have a car s... | HYP: we also have a car s...
+====================
+IMPACT: 0 | REF: what address would y... | HYP: what address would y...
+====================
+IMPACT: 0 | REF: yes northview electr... | HYP: yes northview electr...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5545234382152557 |	 HYP: complimentary
+IMPACT: 0.5540495514868085 | REF: it is complementary ... | HYP: it is complimentary ...
+====================
+IMPACT: 0 | REF: my first available o... | HYP: my first available o...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5648982226848602 |	 HYP: four
+IMPACT: 0.5227232818137699 | REF: it would take approx... | HYP: it would take approx...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['any']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['can']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.6544629335403442 |	 HYP: cannot
+IMPACT: 0.753314401966672 | REF: we may be able to ge... | HYP: we may be able to ge...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7000000000000001 |	 REF: ['dollars']
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 HYP: ['the']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7000000000000001 |	 REF: ['dollars']
+IMPACT: 0.6498833490898679 | REF: the cost of a new st... | HYP: the cost of a new st...
+====================
+IMPACT: 0 | REF: yes we can check the... | HYP: yes we can check the...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7000000000000001 |	 REF: ['dollars']
+IMPACT: 0.6956678314559532 | REF: the cost to install ... | HYP: the cost to install ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: a
+IMPACT: 0.7314825632381176 | REF: with winter coming i... | HYP: with winter coming i...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 7
+IMPACT: 0.7762950273094591 | REF: we can schedule you ... | HYP: we can schedule you ...
+====================
+IMPACT: 0 | REF: is this the number t... | HYP: is this the number t...
+====================
+IMPACT: 0 | REF: okay anita we have y... | HYP: okay anita we have y...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 7
+IMPACT: 0.7713476496720694 | REF: okay then we will se... | HYP: okay then we will se...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.6000000000000001 |	 REF: ['dollar']
+IMPACT: 0.455895520486795 | REF: if you need to adjus... | HYP: if you need to adjus...
+====================
+IMPACT: 0 | REF: thank you for callin... | HYP: thank you for callin...
+====================
+
+========= RESULTS =========
+;eval-config: wimp=neuralpred dist=w2v errcomb=errintr alpha=0.64 
+[0] 0 0.83 0 0 0 0 0 0 0 0 0 0 0 0.83
+[1] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[2] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.646 0 0 0.646
+[3] 0 0.649 0 0 0 0 0 0 0 0 0 0 0 0 0 0.649
+[4] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[5] 0 0 0.315 0 0 0 0 0 0 0 0 0 0 0 0 0.315
+[6] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[7] 0 0 0 0 0 0 0 0 0 0 0 0 0
+[8] 0 0 0 0 0 0 0 0 0 0 0.557 0 0.443 0 0 0 0.706
+[9] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[10] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.536 0 0 0.536
+[11] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[12] 0 0 0 0 0 0 0 0 0
+[13] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[14] 0 0 0.554 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.554
+[15] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[16] 0 0 0 0 0.523 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.523
+[17] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.265 0 0 0.383 0.661 0 0 0 0.753
+[18] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.642 0 0.297 0 0 0 0 0.621 0 0 0 0 0 0 0 0 0 0 0.65
+[19] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[20] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.696 0 0 0 0 0 0 0.696
+[21] 0 0 0 0 0 0 0 0 0 0 0.731 0 0 0 0 0 0 0 0 0 0 0.731
+[22] 0 0 0 0 0 0 0 0 0 0 0.776 0 0 0.776
+[23] 0 0 0 0 0 0 0 0 0 0 0
+[24] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[25] 0 0 0 0 0 0 0 0 0 0.771 0 0 0.771
+[26] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.456 0 0 0 0.456
+[27] 0 0 0 0 0 0 0 0
+

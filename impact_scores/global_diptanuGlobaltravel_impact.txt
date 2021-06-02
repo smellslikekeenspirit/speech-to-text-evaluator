@@ -1,0 +1,191 @@
+Setting up the neural language model.. (this may take awhile)
+loading word2vec model (this may take a while)
+word2vec model loaded!
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: dean
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.91765046864748 |	 HYP: google
+IMPACT: 1.1111752141593116 | REF: good afternoon this ... | HYP: good afternoon this ...
+====================
+IMPACT: 0 | REF: hello rebecca yes we... | HYP: hello rebecca yes we...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.29384493827819824 |	 HYP: reunions
+IMPACT: 0.34320445041085984 | REF: yes we can assist yo... | HYP: yes we can assist yo...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.29384493827819824 |	 HYP: reunions
+IMPACT: 0.3778447023492989 | REF: how many people woul... | HYP: how many people woul...
+====================
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 HYP: ['and']
+IMPACT: 0.31082773341637393 | REF: yes i can help you b... | HYP: yes i can help you b...
+====================
+IMPACT: 0 | REF: do you have a specif... | HYP: do you have a specif...
+====================
+IMPACT: 0 | REF: okay you would like ... | HYP: okay you would like ...
+====================
+IMPACT: 0 | REF: most of the cruises ... | HYP: most of the cruises ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9321358501911163 |	 HYP: food
+IMPACT: 0.7147052931758038 | REF: what port would be t... | HYP: what food would be t...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7996199429035187 |	 HYP: living
+IMPACT: 0.7171327326411173 | REF: yes we can find you ... | HYP: yes we can find you ...
+====================
+IMPACT: 0 | REF: how many nights woul... | HYP: how many nights woul...
+====================
+IMPACT: 0 | REF: okay you would like ... | HYP: okay you would like ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: 20th
+IMPACT: 0.7425706262302135 | REF: we have a cruise tha... | HYP: we have a cruise tha...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5403987169265747 |	 HYP: airport
+IMPACT: 0.5065242193723128 | REF: that cruise would le... | HYP: that cruise would le...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4737430214881897 |	 HYP: the
+IMPACT: 0.4183131037193144 | REF: does that time frame... | HYP: does the time frame ...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['this']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.6000000000000001 |	 REF: ['cruise']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.3317077159881592 |	 HYP: include
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.17794793844223022 |	 HYP: island
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: hawaii
+IMPACT: 0.8813116972517083 | REF: this cruise includes... | HYP: include the island o...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.2 |	 REF: ['it']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8 |	 REF: ['includes']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: waukegan
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['when']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.972440904006362 |	 HYP: wedding
+IMPACT: 1.0495025361363424 | REF: it includes off shor... | HYP: off shore excursions...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['also']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8 |	 REF: ['included']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.2 |	 REF: ['in']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['the']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['off']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5 |	 REF: ['shore']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9 |	 REF: ['excursion']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7000000000000001 |	 REF: ['package']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['van']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9552237428724766 |	 HYP: vendor
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['you']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['the']
+IMPACT: 1.2410452987184155 | REF: also included in the... | HYP: in maui is a vendor ...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.2 |	 REF: ['in']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8 |	 REF: ['addition']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['when']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.2 |	 REF: ['or']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8800793960690498 |	 HYP: corner
+IMPACT: 0.899785926857844 | REF: in addition when on ... | HYP: on the big island yo...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7073920369148254 |	 HYP: the
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9171402901411057 |	 HYP: stores
+IMPACT: 1.298869210426659 | REF: do any of these tour... | HYP: do any of the stores...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.325636625289917 |	 HYP: will
+IMPACT: 0.25689542601997684 | REF: how many rooms would... | HYP: how many rooms will ...
+====================
+IMPACT: 0 | REF: do you prefer inside... | HYP: do you prefer inside...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: cadence
+IMPACT: 0.8337987476525199 | REF: yes there is availab... | HYP: yes there is availab...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: ted
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9003667533397675 |	 HYP: cruz
+IMPACT: 1.3630198165796732 | REF: this cruise line is ... | HYP: this cruise line is ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8188938349485397 |	 HYP: booked
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.1 |	 REF: ['2']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8073019981384277 |	 HYP: two
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5451764464378357 |	 HYP: offshore
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.24048376083374023 |	 HYP: excursion
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8043210655450821 |	 HYP: spare
+IMPACT: 1.2833442532012493 | REF: if you book this cru... | HYP: if you booked this c...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7153532207012177 |	 HYP: this
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9623225927352905 |	 HYP: fault
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.8100955784320831 |	 HYP: just
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 HYP: ['work']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7598218321800232 |	 HYP: escort
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5 |	 HYP: ['since']
+IMPACT: 1.5605959668359812 | REF: you could apply thes... | HYP: you could apply this...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: chef's
+IMPACT: 0.7187313657788108 | REF: in addition for the ... | HYP: in addition for the ...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['for']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: porter
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 HYP: ['will']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: good
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 HYP: ['car']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9178782775998116 |	 HYP: on
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9234118014574051 |	 HYP: board
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 HYP: ['the']
+IMPACT: 1.196715963567188 | REF: for the children the... | HYP: porter children they...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4569123387336731 |	 HYP: this
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.29384493827819824 |	 HYP: reunions
+IMPACT: 0.38125194726950207 | REF: does that sound like... | HYP: does this sound like...
+====================
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.6000000000000001 |	 REF: ['great!']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.1 |	 REF: ['i']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: i'll
+IMPACT: 1.1738030554534116 | REF: great! i will work u... | HYP: i'll work up a price...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.7226915955543518 |	 HYP: call
+IMPACT: 0.6373858840984562 | REF: i will also quote yo... | HYP: i will also call you...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.5648982226848602 |	 HYP: four
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.30000000000000004 |	 REF: ['the']
+DELETION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 REF: ['port']
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9024604484438896 |	 HYP: airport
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9815406147390604 |	 HYP: j
+IMPACT: 1.049690068221563 | REF: and for 4 people fro... | HYP: and for four people ...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.9184495806694031 |	 HYP: back
+INSERTION ERROR:	|	SEMANTIC DISTANCE SCORE: 0.4 |	 HYP: ["it's"]
+IMPACT: 1.127584634550601 | REF: do you have any ques... | HYP: do you have any ques...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: great
+IMPACT: 0.8206130637569211 | REF: okay great! i will g... | HYP: okay great i will ge...
+====================
+**** SUBSTITUTION ERROR:	|	SEMANTIC DISTANCE SCORE: 1 |	 HYP: (spk1_35)po
+IMPACT: 0.8060526631491334 | REF: rebecca thank you fo... | HYP: rebecca thank you fo...
+====================
+
+========= RESULTS =========
+;eval-config: wimp=neuralpred dist=w2v errcomb=errintr alpha=0.64 
+[0] 0 0 0 0 0.826 0 0.749 0 0 0 0 0 0 0 0 1.11
+[1] 0 0 0 0 0 0 0 0 0 0 0
+[2] 0 0 0 0 0 0 0 0 0 0.343 0 0 0 0 0 0 0.343
+[3] 0 0 0 0 0 0 0 0 0 0.378 0 0 0.378
+[4] 0 0 0 0 0 0 0 0 0 0 0 0.311 0 0 0 0.311
+[5] 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[6] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[7] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[8] 0 0.715 0 0 0 0 0 0 0 0 0 0 0 0 0.715
+[9] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.717 0 0 0 0 0 0.717
+[10] 0 0 0 0 0 0 0 0 0 0 0
+[11] 0 0 0 0 0 0 0 0 0 0 0 0 0
+[12] 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.743 0 0.743
+[13] 0 0 0 0 0 0 0 0 0 0.507 0 0.507
+[14] 0 0.418 0 0 0 0 0 0 0.418
+[15] 0.358 0.529 0.394 0 0.241 0 0 0 0 0 0 0.743 0 0 0 0 0 0 0 0.881
+[16] 0.313 0.654 0 0 0 0 0 0 0 0.767 0 0.43 0.707 0 0 1.05
+[17] 0.418 0.711 0.291 0.325 0.311 0.452 0.753 0.663 0 0 0 0 0.246 0.774 0 0 0 0.374 0 0 0 0 0 0 0 0 0 0 0 0 0.374 0 0 0 1.24
+[18] 0.309 0.694 0.454 0 0 0 0 0 0 0 0 0 0 0 0.246 0 0 0 0 0 0 0 0 0.761 0 0 0 0 0 0 0 0 0 0 0 0.9
+[19] 0 0 0 0.605 0.838 0 0 0 1.3
+[20] 0 0 0 0.257 0 0 0 0 0.257
+[21] 0 0 0 0 0 0 0 0 0 0 0 0
+[22] 0 0 0 0 0 0 0 0 0 0.834 0 0 0 0 0 0 0 0 0.834
+[23] 0 0 0 0 0 0 0 0 0 0.709 0.805 0 0 0 0 0 0 0 0 1.36
+[24] 0 0 0.699 0 0 0 0 0 0 0 0 0 0 0 0 0.209 0.672 0.522 0.347 0.636 0 0 1.28
+[25] 0 0 0 0.638 0.826 0.724 0.427 0 0 0 0.682 0.515 0 0 0 0 1.56
+[26] 0 0 0 0 0 0 0 0 0 0 0 0 0.719 0 0 0 0 0 0 0 0 0 0 0 0 0.719
+[27] 0.336 0.711 0 0 0.369 0 0 0 0 0 0 0 0 0 0 0 0 0.695 0.337 0 0.783 0.73 0.359 0 0 1.2
+[28] 0 0.404 0 0 0 0 0 0 0 0 0 0 0.358 0 0.381
+[29] 0.58 0.196 0.783 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.17
+[30] 0 0 0 0.637 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.637
+[31] 0 0 0.428 0 0 0 0 0.308 0 0 0.426 0.71 0.718 0 0 0 0 0 1.05
+[32] 0 0 0 0 0 0 0 0 0.791 0.461 0 1.13
+[33] 0 0.821 0 0 0 0 0 0 0 0 0 0.821
+[34] 0 0 0 0 0 0 0 0 0 0 0 0.806 0.806
+
