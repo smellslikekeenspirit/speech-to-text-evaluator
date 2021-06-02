@@ -1,0 +1,266 @@
+{
+   "result_index": 0,
+   "results": [
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "good afternoon this is Jane from global travel how may I assist you today hello Rebecca yes we specialize in cruise travel worldwide ",
+               "confidence": 0.92
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "yes we can assist you in planning a family reunion cruise for your extended family how many people would be included in this family reunion vacation ",
+               "confidence": 0.99
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "yes I can help you book a group cruise for twelve family members ",
+               "confidence": 0.98
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "do you have a specific location you would like to cruise to ",
+               "confidence": 0.99
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "okay you would like to visit the Hawaiian Islands during the summer months ",
+               "confidence": 0.97
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "most of the cruises to the Hawaiian Islands leave from a California port ",
+               "confidence": 0.91
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "what port would be most convenient for your group to leave from ",
+               "confidence": 0.9
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "yes we can find you a cruise during the summer months for twelve people leaving out of San Diego ",
+               "confidence": 0.97
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "how many nights would you like to cruise for ",
+               "confidence": 1.0
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "okay you would like to book a cruise for ten days ",
+               "confidence": 0.97
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "we have a cruise that leaves July tenth for ten days returning on July twentieth that Cruz would leave out of the San Diego port ",
+               "confidence": 0.91
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "does that time frame work for you ",
+               "confidence": 0.82
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "this cruise includes the islands Oahu also known as Honolulu Maui kawaii and the Big Island of Hawaii ",
+               "confidence": 0.84
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "it includes off shore excursions to Pearl Harbor and walkie key beach when in Hawaii who ",
+               "confidence": 0.76
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "also included in the off shore excursion package in Maui is a van tour that will take you along the coast on the road to Hana or a visit to the Holly Akula volcano ",
+               "confidence": 0.93
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "in addition when on the Big Island you can visit the volcano national park or go snorkeling at the captain cook monument in Kona where they have some of the best snorkeling in Hawaii ",
+               "confidence": 0.96
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "do any of these tours interest you ",
+               "confidence": 0.86
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "how many rooms would you be needing ",
+               "confidence": 1.0
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "do you prefer inside state rooms or rooms with a balcony ",
+               "confidence": 0.94
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "yes there is availability on this cruise for five cabins that have balconies to accommodate your group ",
+               "confidence": 0.98
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "this cruise line is offering a few specials for that cruise date would you like to hear them ",
+               "confidence": 0.91
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "if you booked this cruise by April first you will receive ship credit vouchers for two off shore excursions per room you could apply these vouchers towards some of the excursions I mentioned earlier ",
+               "confidence": 0.94
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "in addition for the adults this includes a guided tour of the ship's kitchen the engine room and the art collection throughout the ship ",
+               "confidence": 0.98
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "for the children they will have unlimited access to the water slides mini golf course and the go kart track on board the ship ",
+               "confidence": 0.91
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "does that sound like a cruise that would work for your family reunion ",
+               "confidence": 0.95
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "great I will work up a price for you and call you back this afternoon at seven one six seven three five two one one zero ",
+               "confidence": 0.97
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "I will also quote you a price for the airfare for eight people from Denver to the port and for for people from Phoenix to the San Diego port the day prior to the cruise ",
+               "confidence": 0.97
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "do you have any questions about this cruise package ",
+               "confidence": 1.0
+            }
+         ]
+      },
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "okay great I will get back to you later today Rebecca thank you for choosing global travel for your vacation planning ",
+               "confidence": 0.93
+            }
+         ]
+      }
+   ]
+}
